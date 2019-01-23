@@ -1,2 +1,3 @@
 # hello-world
-initial repository
+Initial Repository
+Setting up to create a studious engine using the english language, definitions, synonyms, antonyms...
